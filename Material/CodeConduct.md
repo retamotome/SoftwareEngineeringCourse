@@ -1,4 +1,4 @@
-# Code Conduct 
+# Agile Code Conduct 
 
 ## Statement for Employees  
 
@@ -20,8 +20,6 @@ New Hiring Training is formulated to assist new employees in familiarizing thems
 ### Capability Self-Training  
 
 Enhancing capabilities is inherently a personal responsibility. Individuals must remain abreast of the most recent knowledge for career progression. Aspire for continual improvement, as complacency can result in setbacks in a competitive environment. 
-Below is a concise list of resources for your reference:  
-- [Recommend Resource List](RecommendResourceList.md).  
    
 ## Baseline of Code Conduct  
 
